@@ -2,8 +2,8 @@
 
 PLS OPEN.exe is a simple executable file designed to provide quick access to anti-suicide resources. It opens three websites, including one created by the author, along with two others:
 
-1. **[Author's Anti-Suicide Site](https://shinniuwu.github.io/anti-sucide/):**
-   This site contains quotes and music chosen by the author. Users can stop the music if they prefer. The site aims to offer support and encouragement to those in need.
+1. **[My Anti-Suicide Site](https://shinniuwu.github.io/anti-sucide/):**
+   This site contains quotes and music chosen by me. Users can stop the music if they prefer. The site aims to offer support and encouragement to those in need.
 
 2. **[Google Search - Anti-Suicide Sites](https://www.google.com/search?q=anti+sucide+sites):**
    This link directs users to a Google search page with results for anti-suicide websites. It provides a broader range of resources for individuals seeking help.
